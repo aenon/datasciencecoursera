@@ -1,4 +1,4 @@
-datasciencecoursera
+Data Science Coursera
 ===================
 
-Repo created for "The Data Scientist’s Toolbox" on Coursera.
+This repo is created for "The Data Scientist’s Toolbox" on Coursera.
